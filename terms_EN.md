@@ -16,4 +16,4 @@ The Nova team ("us", "we" or "our") owns and operates It's Nova ("Bot" or "Servi
 ## Regulatory legislation
 - These terms of use are regulated in accordance with the legislation of the Russian Federation and you unconditionally follow this legislation.
 
-### The Terms of Use are valid from April 22, 2024.
+### The Terms of Use are valid from April 23, 2024.
